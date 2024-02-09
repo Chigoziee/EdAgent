@@ -2,6 +2,6 @@
 python >= 3.10
 
 #Libraries installation 
-pip install --q crewai
-pip install --q -U duckduckgo-search
-pip install --q langchain_google_genai
+crewai
+duckduckgo-search
+langchain_google_genai
